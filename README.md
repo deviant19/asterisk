@@ -1,0 +1,50 @@
+# asterisk
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="whidth=device=width,user-scalable=no">
+    <title>Curriculum Vitae</title>
+  </head>
+  <body>
+  <section>
+      <header>
+          <svg>
+            <image xlink:href="img/img.svg" width="300px" height="200px"></image>
+          </svg>
+      </header>
+      <header>
+        <h1>HOJA DE VIDA</h1>
+        <h2>Andrey Garcia:</h2><h3>FECHA DE NACIMIENTO: <em>06/02/1984</em>, LUGAR DE NACIMIENTO: <em>San Salvador El Salvador.</em> </h3>
+        <ul>
+          <li><a href="index.html">INICIO</a></li>
+            <li><a href="educacion.html">EDUCACION</a></li>
+          <li><a href="experiencia.html">EXPERIENCIA</a></li>
+        </ul>
+        <article>
+        <h3>Información Personal</h3>
+        <img src="img/foto.png" alt="" height="400px">
+        <ul>
+          <li><strong>Nombre:</strong> Andrey</li>
+            <li><strong>Apellidos:</strong> Garcia</li>
+          <li><strong>Edad:</strong> 33</li>
+        </ul>
+        <h2>Informacion de Perfil</h2>
+        <ul>
+          <li><strong>Perfil:</strong> Estudiante, Emprendedor.</li>
+          <li><strong>Idiomas:</strong> Español, Ingles.</li>
+        </ul>
+        </article>
+      </header>
+    </section>
+  </body>
+  <footer>
+      <h4>@Derechos Reservados</h4>
+      <ul>
+        <li><strong>Email:</strong> andrey.garcia@iwebpanama.com</li>
+        <li><strong>Telefono:</strong> +507 6361-6727</li>
+        <li><strong>Direccion:</strong> Av. Balboa, edificio rocamar piso #24</li>
+      </ul>
+  </footer>
+</html>
